@@ -5,19 +5,19 @@ Plugin untuk membantu anda mendapatkan informasi saldo terakhir rekening BCA and
 ## Cara Install
 
 ```bash
-npm install --save nodejs-bca-scraper
+npm install --save nodejs-klikbca-scrapper
 ```
 
 atau
 
 ```bash
-yarn add nodejs-bca-scraper
+yarn add nodejs-klikbca-scrapper
 ```
 
 ## Penggunaan
 
 ```javascript
-const bca = require('nodejs-bca-scraper');
+const bca = require('nodejs-klikbca-scrapper');
 ```
 
 ### Cek Saldo Terakhir
@@ -53,3 +53,8 @@ MIT
 # Author
 
 [Achmad Apriady](mailto:achmad.apriady@gmail.com)
+
+
+# Modified by 
+
+[Nusendra Hanggarawan](mailto:admin@nusendra.com)
