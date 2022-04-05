@@ -1,4 +1,4 @@
-# nodejs-bca-scraper
+# nodejs-klikbca-scrapper
 
 Plugin untuk membantu anda mendapatkan informasi saldo terakhir rekening BCA anda serta mutasi rekening BCA anda pada hari itu melalui KlikBCA.
 
