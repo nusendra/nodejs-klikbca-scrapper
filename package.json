@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-bca-scraper",
+  "name": "nodejs-klikbca-scrapper",
   "version": "1.0.0",
   "description": "Plugin untuk mendapatkan saldo terakhir dan mutasi rekening BCA via klikbca tanpa menggunakan official API dari Bank BCA.",
   "keywords": [
@@ -11,7 +11,7 @@
     "rekening"
   ],
   "main": "index.js",
-  "author": "Achmad Apriady <achmad.apriady@gmail.com>",
+  "author": "Nusendra Hanggarawan <admin@nusendra.com>",
   "license": "MIT",
   "dependencies": {
     "moment": "^2.24.0",
